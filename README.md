@@ -30,7 +30,7 @@ O projeto utiliza dados de:
 
 ## 📸 Dashboard
 
-![Dashboard do Pet Shop Gatitos](Imagens/dashboard.png)
+![Dashboard do Pet Shop Gatitos](imagens/dashboard.png)
 
 
 ## 👩‍💻 Autora
