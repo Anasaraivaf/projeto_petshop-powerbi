@@ -37,4 +37,3 @@ O projeto utiliza dados de:
 
 **Ana Caroline Saraiva**
 
-Projeto desenvolvido para portfólio na área de **Dados e Power BI**.
